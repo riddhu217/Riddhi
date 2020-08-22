@@ -1,0 +1,2 @@
+# Riddhi
+jewellary shop management
